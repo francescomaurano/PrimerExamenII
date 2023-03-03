@@ -1,0 +1,42 @@
+#logo, header{
+    display: block;
+    margin: auto;
+    background-color: rgb(220, 220, 220);
+    padding-top: 15px;
+
+}
+h1{
+    background-color: rgb(151, 151, 151);
+    color: rgb(110, 5, 5);
+    text-align: center;
+    tab-size: 35px;    
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#boxWithe{
+    margin-top: 120px;
+    margin-bottom: 70px;
+}
+.titulos{
+    background-color: rgb(196 196 196);
+    color: rgb(119, 0, 0);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: large;
+}
+.box{
+    display: colum;
+}
+.item{
+    display: flex;
+    padding-left: 3%;
+}
+footer{
+    background-color: rgb(105, 9, 9);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    align-items: end;
+    flex-direction: row;
+}
+div  {text-align: center;}
+.banner {   text-align: center;}
